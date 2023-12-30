@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am currently learning TypeScript | Next.js<br>I am looking for a job<br>Ask me about MERN | Flutter<br>Fun fact -> *404*
+I'm Sarthak Sharma, a Full-Stack Developer 👨‍💻 Looking for a job nowadays 🔎 | I am currently learning TypeScript | Next.js<br>I am looking for a job<br>Ask me about MERN | Flutter<br>Fun fact -> mera sense of humour bahut accha hai tumhe dheere dheere pata chalega 😌
 
 
 ## 🌐 Socials:
