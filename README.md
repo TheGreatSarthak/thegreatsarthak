@@ -1,4 +1,4 @@
-<img align="left" width="400" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" width="400" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 # 💫 About Me:
 
