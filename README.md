@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am currently learning TypeScript | Next.js<br>I am looking for a job<br>Ask me about MERN | Flutter<br>Fun fact -> 404
+I am currently learning TypeScript | Next.js<br>I am looking for a job<br>Ask me about MERN | Flutter<br>Fun fact -> *404*
 
 
 ## 🌐 Socials:
